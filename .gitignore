@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+.vitepress/dist/
+out/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pnpm-error.log*
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor/OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Cache files
+.cache/
+*.cache
+.eslintcache
+stylelintcache
